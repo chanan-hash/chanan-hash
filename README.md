@@ -2,6 +2,13 @@
 |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chanan-hash&show_icons=true&count_private=true&card_width=500)](https://github.com/anuraghazra/github-readme-stats) | [![Top Lang's](https://github-readme-stats.vercel.app/api/top-langs/?username=chanan-hash&hide=jupyter%20notebook&layout=compact&langs_count=5&card_width=450)](https://github.com/anuraghazra/github-readme-stats) |
 
+![GitHub stars](https://img.shields.io/github/stars/your-username/your-repo.svg?style=social)
+
+![GitHub followers](https://img.shields.io/github/followers/your-username.svg?style=social)
+
+![GitHub repo size](https://img.shields.io/github/repo-size/your-username/your-repo.svg)
+
+
 # Welcome to My Profile Repository: chanan-hash
 
 ![Profile Banner](https://example.com/banner_image.png)
@@ -31,8 +38,9 @@ I'm always experimenting and learning. Here are some areas I'm currently diving 
 
 ## 🤝 Let's Connect
 
-I'm all ears for collaboration, sharing knowledge, and making new friends. Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/chanan-helman-1b83a0288/), or [Email](Your Email Address).
-
+I'm all ears for collaboration, sharing knowledge, and making new friends. Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/chanan-helman-1b83a0288/), or here through github
+<!--or [Email](Your Email Address).
+-->
 Let's learn, code, and grow together!
 
 ---

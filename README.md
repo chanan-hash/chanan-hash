@@ -2,12 +2,14 @@
 |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chanan-hash&show_icons=true&count_private=true&card_width=500)](https://github.com/anuraghazra/github-readme-stats) | [![Top Lang's](https://github-readme-stats.vercel.app/api/top-langs/?username=chanan-hash&hide=jupyter%20notebook&layout=compact&langs_count=5&card_width=450)](https://github.com/anuraghazra/github-readme-stats) |
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=chanan-hash) 
+<!--
 ![GitHub stars](https://img.shields.io/github/stars/chanan-hash/your-repo.svg?style=social)
 
 ![GitHub followers](https://img.shields.io/github/followers/chanan-hash.svg?style=social)
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/chanan-hash/your-repo.svg)
-
+-->
 
 # Welcome to My Profile Repository: chanan-hash
 

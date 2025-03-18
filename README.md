@@ -1,66 +1,74 @@
-|                                                                                     Hi there, I'm Chanan 👋                                                                                      |                                                                                                    ⚡ Fun fact                                                                                                    |
-|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chanan-hash&show_icons=true&count_private=true&card_width=500)](https://github.com/anuraghazra/github-readme-stats) | [![Top Lang's](https://github-readme-stats.vercel.app/api/top-langs/?username=chanan-hash&hide=jupyter%20notebook&layout=compact&langs_count=5&card_width=450)](https://github.com/anuraghazra/github-readme-stats) |
+# Hi there, I'm Chanan 👋
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=chanan-hash) 
-<!--
-![GitHub stars](https://img.shields.io/github/stars/chanan-hash/your-repo.svg?style=social)
-
-![GitHub followers](https://img.shields.io/github/followers/chanan-hash.svg?style=social)
-
-![GitHub repo size](https://img.shields.io/github/repo-size/chanan-hash/your-repo.svg)
--->
-
-# Welcome to My Profile Repository: chanan-hash
-
-![Profile Banner](https://example.com/banner_image.png)
-
-Hello there! Welcome to my special GitHub profile repository - **chanan-hash**. This repository is a reflection of my journey, interests, and coding adventures. Feel free to explore, collaborate, and get to know me better.
-
-## 🧔 About Me
-
-I'm Chanan, I am a student for Computer science.
-
-## 🚀 What You'll Find Here
-
-In this repository, you'll discover a mix of projects, ideas, and snippets that define who I am as a developer and a person. Here's a sneak peek at what you can expect:
-
-###  Projects
-
-- **[Intro2CS_Ex3](https://github.com/chanan-hash/My-ariel-university-exercises/tree/main/semster1/EX3):** This is an assignment we had in Intro2CS course. This assignment includes working with all kind of algorithm ideas, such as BFS algorithm.
-- **[Data Structure](https://github.com/chanan-hash/Data-Structure-AU):** This repository was for data-structure course, all kinds of interesting and implementation for those DS with explanations, are in this repository.
-- **[DLS Game](https://github.com/chanan-hash/DLS-game)**: This is a code for a game that I used to play when I was a kid, and my friends an I wonted to make it as a computer game
-
-## 🌱 What's Cooking?
-
-I'm always experimenting and learning. Here are some areas I'm currently diving into:
-
-- [algorithm1]: In the following semester, I will learn algorithm course and will try to put my projects here.
-- [OOP]:In addindion to algorithm course and more courses I'll also going to learn OOP course.
-
-## 🤝 Let's Connect
-
-I'm all ears for collaboration, sharing knowledge, and making new friends. Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/chanan-helman-1b83a0288/), or here through github
-<!--or [Email](Your Email Address).
--->
-Let's learn, code, and grow together!
+Welcome to my coding journey! I'm a passionate Computer Science student exploring algorithms, data structures, and game development. Whether you're here to collaborate or to get inspired, I'm thrilled to have you along for the ride.
 
 ---
 
-Thank you for dropping by and taking a peek at my profile repository.
-Enjoy your journey through my coding world! 🎨👨‍💻
+## 🚀 Tech Stack
 
-<!--
-**chanan-hash/chanan-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/Java-ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/Assembly-000000.svg?style=for-the-badge&logo=none&logoColor=white" alt="Assembly">
+</p>
 
-Here are some ideas to get you started:
+### Tools & Technologies
+<p>
+  <!-- Examples, adjust to whatever tools you actually use -->
+  <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+</p>
 
-- 🔭 I’m currently working on Data-Structure projects
-- 🌱 I’m currently learning CS in the university
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+
+## ✨ GitHub Stats
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/chanan-hash">
+        <img src="https://github-readme-stats.vercel.app/api?username=chanan-hash&show_icons=true&count_private=true&card_width=500" alt="Chanan's GitHub stats" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/chanan-hash">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanan-hash&hide=jupyter%20notebook&layout=compact&langs_count=5&card_width=450" alt="Top Languages" />
+      </a>
+    </td>
+  </tr>
+</table>
+---
+
+## 📂 Projects Portfolio
+
+Here’s a glimpse into some of the projects I’ve been working on:
+
+- **[Intro2CS_Ex3](https://github.com/chanan-hash/My-ariel-university-exercises/tree/main/semster1/EX3):** An assignment from my Intro2CS course where I explored various algorithmic techniques, including BFS.
+- **[Data Structure](https://github.com/chanan-hash/Data-Structure-AU):** A comprehensive repository covering data structure implementations and explanations from my coursework.
+- **[DLS Game](https://github.com/chanan-hash/DLS-game):** A nostalgic project—turning a childhood game into an interactive computer game.
+- **[Monopoly](https://github.com/chanan-hash/Monopoly)
+:** Version of monopoly game in C++.  
+- **[My netcat](https://github.com/chanan-hash/OS-Ex2)
+:** This project is a version of Linux inbuilt net-cat (nc) communication by client and server in different ways and different protocols.
+---
+
+---
+
+## 🤝 Let’s Connect
+
+I’m all about collaboration and sharing ideas. Feel free to connect with me on GitHub or check out my professional profile on LinkedIn.
+
+[<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />](https://www.linkedin.com/in/chanan-helman-1b83a0288/)
+
+---
+
+Thanks for stopping by! Let's code, create, and innovate together. 🚀
+
+<!-- 
+Optionally add a visitor counter:
+![Visitor Count](https://profile-counter.glitch.me/chanan-hash/count.svg)
 -->

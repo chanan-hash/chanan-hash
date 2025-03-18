@@ -23,8 +23,6 @@ Welcome to my coding journey! I'm a passionate Computer Science student explorin
   <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
 </p>
 
----
-
 ## ✨ GitHub Stats
 
 <table>

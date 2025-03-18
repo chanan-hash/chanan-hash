@@ -54,8 +54,6 @@ Here’s a glimpse into some of the projects I’ve been working on:
 :** This project is a version of Linux inbuilt net-cat (nc) communication by client and server in different ways and different protocols.
 ---
 
----
-
 ## 🤝 Let’s Connect
 
 I’m all about collaboration and sharing ideas. Feel free to connect with me on GitHub or check out my professional profile on LinkedIn.

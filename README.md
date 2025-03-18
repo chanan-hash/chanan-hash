@@ -39,7 +39,6 @@ Welcome to my coding journey! I'm a passionate Computer Science student explorin
     </td>
   </tr>
 </table>
----
 
 ## 📂 Projects Portfolio
 

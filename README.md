@@ -42,11 +42,20 @@ I'm a passionate **Computer Science student** at Ariel University (GPA: 89) with
 ## 📊 GitHub Analytics
 
 <div align="center">
-
-[![GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=chanan-hash&show_icons=true&theme=dark&count_private=true)](https://github.com/chanan-hash)
-
-[![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=chanan-hash&layout=compact&theme=dark&langs_count=6)](https://github.com/chanan-hash)
-
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/chanan-hash">
+          <img src="https://github-readme-stats-one-bice.vercel.app/api?username=chanan-hash&show_icons=true&theme=dark&count_private=true" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/chanan-hash">
+          <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=chanan-hash&layout=compact&theme=dark&langs_count=6" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 
